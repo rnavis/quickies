@@ -35,7 +35,7 @@ class Trade:
         return self.__priceType
 
     def get_type(self):
-        return "Trade"
+        return "Basic Trade"
 
     def toString(self):
         return "{} is of {} qty and {} price and priceType {}".format(self.__product,

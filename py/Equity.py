@@ -1,4 +1,4 @@
-from src.ilearn.py.Trade import Trade
+from Trade import Trade
 
 class Equity(Trade):
     __broker = ""
@@ -13,7 +13,7 @@ class Equity(Trade):
     def get_broker(self):
         return self.__broker
 
-    def get_classtype(self):
+    def get_type(self):
         return "Equity"
 
     def toString(self):
