@@ -12,3 +12,5 @@ example,
 
   	``Division by 25`` ==> dividing by last 2 digits should give the divisibility of the number by 25.
 
+`Find least number leaving common remainder`
+-- Find lcm of the divisors and add common remainder to it.
