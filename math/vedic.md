@@ -1,4 +1,4 @@
-#h2 REMAINDERS:
+##H2 REMAINDERS:
 
 `Square of numbers` ==> ab == a^2 .2ab . b^2 (carry forward the reminder)
 
