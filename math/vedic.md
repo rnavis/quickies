@@ -1,3 +1,5 @@
+#h2 REMAINDERS:
+
 `Square of numbers` ==> ab == a^2 .2ab . b^2 (carry forward the reminder)
 
 if divisor is 2^n or 5^n then remainder can be found by dividing by the last n digits alone.
